@@ -23,3 +23,5 @@ def coin_strappeur
   end
   return result
 end
+
+puts coin_strappeur
